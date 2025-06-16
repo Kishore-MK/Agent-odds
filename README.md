@@ -33,7 +33,7 @@ Agent Odds is a Web3-powered Telegram bot and Mini App that allows group members
 ---
 
 # Clone the repo
-git clone https://github.com/yourusername/agent-odds.git
+git clone https://github.com/kishore-mk/agent-odds.git
 cd agent-odds
 
 # Install bot & backend
